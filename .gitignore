@@ -1,5 +1,5 @@
 .DS_Store
-".vs/ConnectPoints/xs"
+.vs*
 obj
 Properties
 bin
