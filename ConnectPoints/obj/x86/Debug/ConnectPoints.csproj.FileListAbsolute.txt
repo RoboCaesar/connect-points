@@ -1,0 +1,6 @@
+/Users/thomasdraxler/Projects/ConnectPoints/ConnectPoints/bin/Debug/ConnectPoints.exe
+/Users/thomasdraxler/Projects/ConnectPoints/ConnectPoints/bin/Debug/ConnectPoints.pdb
+/Users/thomasdraxler/Projects/ConnectPoints/ConnectPoints/obj/x86/Debug/ConnectPoints.csprojAssemblyReference.cache
+/Users/thomasdraxler/Projects/ConnectPoints/ConnectPoints/obj/x86/Debug/ConnectPoints.csproj.CoreCompileInputs.cache
+/Users/thomasdraxler/Projects/ConnectPoints/ConnectPoints/obj/x86/Debug/ConnectPoints.exe
+/Users/thomasdraxler/Projects/ConnectPoints/ConnectPoints/obj/x86/Debug/ConnectPoints.pdb
